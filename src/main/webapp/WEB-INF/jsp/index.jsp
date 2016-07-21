@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-			hello world xzczx 
-			
-			wrocic do tutorialu i robic dalej ale na swoim przykladzie  zzz
+		hello from spring web mvc zzz
 </body>
 </html>
