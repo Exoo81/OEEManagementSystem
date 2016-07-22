@@ -9,7 +9,7 @@
 	</head>
 	
 	<body>
-			hello from spring web mvc zzz
+			hello from spring web mvc zzz v2
 	</body>
 	 
 </html>
