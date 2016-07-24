@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   
+  	
 	<!-- Shared version number properties -->
 	<properties>
 	    <org.springframework.version>4.3.1.RELEASE</org.springframework.version>
@@ -12,7 +13,7 @@
 	</properties>
 	
 	<dependencies>
-	
+
 		<!-- DB driver -->
 		<dependency>
 			<groupId>org.hsqldb</groupId>
@@ -203,7 +204,7 @@
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<version>3.1.0</version>
-			<scope>provider</scope>
+			<scope>provided</scope>
 		</dependency>
 		<!-- JSP API -->
 		<dependency>
