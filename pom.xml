@@ -13,7 +13,13 @@
 	</properties>
 	
 	<dependencies>
-
+		<!-- JSTL to allow for iteration -->
+		<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+		
 		<!-- DB driver -->
 		<dependency>
 			<groupId>org.hsqldb</groupId>
